@@ -1,1 +1,2 @@
 # odin-recipes
+"Welcome to my first odin project! I will be implimenting everything I have learned since the start of my coding journey in June 2023. I've learned the basics of HTML, CSS, and JavaScript with the help of freeCodecamp and I look forward to what our great Odin has to teach me!"
