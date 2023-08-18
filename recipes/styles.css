@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+}
+body, ol{
+    display: block;
+    align-items: left;
+    margin: 10px;
+    padding: 5px;
+}
